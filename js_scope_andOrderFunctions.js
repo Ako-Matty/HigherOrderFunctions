@@ -1,3 +1,6 @@
+// Activity 1
+
+
 // let codenation = (`Hello Codenation`)
 
 
@@ -13,16 +16,6 @@
 //         console.log(i)
 //     }
 // }
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -95,3 +88,8 @@ const add = (a, b) => {
 };
 
 console.log (doMaths (2) (5, add) )
+
+
+
+
+
